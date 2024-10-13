@@ -1,4 +1,4 @@
-import "@src/app.css";
+import "@src/App.css";
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 

@@ -1,4 +1,4 @@
-import "@src/app.css";
+import "@src/App.css";
 import { Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
 

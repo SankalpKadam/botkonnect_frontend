@@ -1,4 +1,4 @@
-import "@src/app.css";
+import "@src/App.css";
 import { Card, CardContent } from "@/components/ui/card";
 import {
   LineChart,
