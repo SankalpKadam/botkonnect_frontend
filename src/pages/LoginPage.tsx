@@ -12,7 +12,7 @@ import {
 import { Eye, EyeOff } from "lucide-react";
 // import Link from 'next/link'
 import { Link } from "react-router-dom";
-import "@src/app.css"; // Import the CSS file
+import "@src/App.css"; // Import the CSS file
 
 export default function LoginPage() {
 	const [showPassword, setShowPassword] = useState(false);
